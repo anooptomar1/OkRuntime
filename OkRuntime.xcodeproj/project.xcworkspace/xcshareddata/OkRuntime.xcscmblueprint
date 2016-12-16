@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0CDE2422717E168FB5B8B1537E69E23C50ECB579",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51EB09D9B48706DC6B07BCBE816738EF4D5569C2" : 9223372036854775807,
+    "0CDE2422717E168FB5B8B1537E69E23C50ECB579" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61153AC2-03F7-4305-85C0-17494BDDFAB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51EB09D9B48706DC6B07BCBE816738EF4D5569C2" : "",
+    "0CDE2422717E168FB5B8B1537E69E23C50ECB579" : "OkRuntime\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OkRuntime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OkRuntime.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/devtopia.esri.com\/gaga7620\/OkRuntime.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CDE2422717E168FB5B8B1537E69E23C50ECB579"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ArcGIS\/maptours-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51EB09D9B48706DC6B07BCBE816738EF4D5569C2"
+    }
+  ]
+}
